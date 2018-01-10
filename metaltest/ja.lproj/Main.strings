@@ -1,0 +1,111 @@
+
+/* Class = "UILabel"; text = "1200"; ObjectID = "0da-g0-ttm"; */
+"0da-g0-ttm.text" = "1200";
+
+/* Class = "UILabel"; text = "score"; ObjectID = "3UC-sA-BxQ"; */
+"3UC-sA-BxQ.text" = "score";
+
+/* Class = "UIButton"; normalTitle = "next"; ObjectID = "A7F-Y3-CUR"; */
+"A7F-Y3-CUR.normalTitle" = "next";
+
+/* Class = "UILabel"; text = "1000000"; ObjectID = "AW3-Bg-lO2"; */
+"AW3-Bg-lO2.text" = "1000000";
+
+/* Class = "UIButton"; normalTitle = "check result"; ObjectID = "AkX-yL-Vkz"; */
+"AkX-yL-Vkz.normalTitle" = "check result";
+
+/* Class = "UIButton"; normalTitle = "epilogue"; ObjectID = "Dxe-Z1-mei"; */
+"Dxe-Z1-mei.normalTitle" = "epilogue";
+
+/* Class = "UIButton"; normalTitle = "back home"; ObjectID = "DyL-le-ANy"; */
+"DyL-le-ANy.normalTitle" = "back home";
+
+/* Class = "UILabel"; text = "not clear"; ObjectID = "GOj-u2-1Ah"; */
+"GOj-u2-1Ah.text" = "not clear";
+
+/* Class = "UILabel"; text = "Select playing stage"; ObjectID = "HpH-oT-rLY"; */
+"HpH-oT-rLY.text" = "Select playing stage";
+
+/* Class = "UILabel"; text = "HP"; ObjectID = "KeW-Ph-dzl"; */
+"KeW-Ph-dzl.text" = "HP";
+
+/* Class = "UIButton"; normalTitle = "back home"; ObjectID = "NJS-SR-BE7"; */
+"NJS-SR-BE7.normalTitle" = "back home";
+
+/* Class = "UIButton"; normalTitle = "stage 2"; ObjectID = "RWJ-DC-pAV"; */
+"RWJ-DC-pAV.normalTitle" = "stage 2";
+
+/* Class = "UIButton"; normalTitle = "back home"; ObjectID = "Ril-mJ-c8V"; */
+"Ril-mJ-c8V.normalTitle" = "back home";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "S4z-qh-KVb"; */
+"S4z-qh-KVb.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "reset megane point"; ObjectID = "SaO-i9-Qae"; */
+"SaO-i9-Qae.normalTitle" = "reset megane point";
+
+/* Class = "UILabel"; text = "score"; ObjectID = "TSA-lA-7H0"; */
+"TSA-lA-7H0.text" = "score";
+
+/* Class = "UIButton"; normalTitle = "go home"; ObjectID = "Tb2-Bs-plU"; */
+"Tb2-Bs-plU.normalTitle" = "go home";
+
+/* Class = "UIButton"; normalTitle = "\ntap to start"; ObjectID = "Tq2-IE-1Fk"; */
+"Tq2-IE-1Fk.normalTitle" = "\ntap to start";
+
+/* Class = "UILabel"; text = "Programmer Twitter : @fuziki333\n\nSpecial thanks to All Players.\n\nCopyright ©︎ 2017 NoguchiFactory. \nAll right reserved."; ObjectID = "Ukx-t8-SE3"; */
+"Ukx-t8-SE3.text" = "Programmer Twitter : @fuziki333\n\nSpecial thanks to All Players.\n\nCopyright ©︎ 2017 NoguchiFactory. \nAll right reserved.";
+
+/* Class = "UILabel"; text = "difficulty"; ObjectID = "Uru-ad-sw0"; */
+"Uru-ad-sw0.text" = "difficulty";
+
+/* Class = "UIButton"; normalTitle = "pre"; ObjectID = "Y6d-5D-nio"; */
+"Y6d-5D-nio.normalTitle" = "pre";
+
+/* Class = "UIButton"; normalTitle = "back game"; ObjectID = "Yzo-Zn-73q"; */
+"Yzo-Zn-73q.normalTitle" = "back game";
+
+/* Class = "UILabel"; text = "result"; ObjectID = "aD4-iW-QmV"; */
+"aD4-iW-QmV.text" = "result";
+
+/* Class = "UILabel"; text = "120000"; ObjectID = "bKZ-GE-SZC"; */
+"bKZ-GE-SZC.text" = "120000";
+
+/* Class = "UIButton"; normalTitle = "stage 1"; ObjectID = "c6V-h8-dSf"; */
+"c6V-h8-dSf.normalTitle" = "stage 1";
+
+/* Class = "UILabel"; text = "locked"; ObjectID = "cgb-Cp-zts"; */
+"cgb-Cp-zts.text" = "locked";
+
+/* Class = "UILabel"; text = "Megane Point : 0"; ObjectID = "eF0-T1-aJ0"; */
+"eF0-T1-aJ0.text" = "Megane Point : 0";
+
+/* Class = "UILabel"; text = "hard"; ObjectID = "fpK-dD-Cpf"; */
+"fpK-dD-Cpf.text" = "hard";
+
+/* Class = "UILabel"; text = "total megane point"; ObjectID = "gAf-0Y-KRH"; */
+"gAf-0Y-KRH.text" = "total megane point";
+
+/* Class = "UILabel"; text = "stage"; ObjectID = "gfT-pQ-1XT"; */
+"gfT-pQ-1XT.text" = "stage";
+
+/* Class = "UIButton"; normalTitle = "play"; ObjectID = "kQc-So-YDS"; */
+"kQc-So-YDS.normalTitle" = "play";
+
+/* Class = "UIButton"; normalTitle = "reset stage score"; ObjectID = "lY7-Ab-0VR"; */
+"lY7-Ab-0VR.normalTitle" = "reset stage score";
+
+/* Class = "UILabel"; text = "easy"; ObjectID = "nEi-0u-KJx"; */
+"nEi-0u-KJx.text" = "easy";
+
+/* Class = "UILabel"; text = "24000"; ObjectID = "oRm-Nt-YZj"; */
+"oRm-Nt-YZj.text" = "24000";
+
+/* Class = "UILabel"; text = "tap to start"; ObjectID = "qWk-51-joj"; */
+"qWk-51-joj.text" = "tap to start";
+
+/* Class = "UIButton"; normalTitle = "back home"; ObjectID = "woj-sf-aZi"; */
+"woj-sf-aZi.normalTitle" = "back home";
+
+/* Class = "UIButton"; normalTitle = "stage 3"; ObjectID = "ySU-4Y-fso"; */
+"ySU-4Y-fso.normalTitle" = "stage 3";
